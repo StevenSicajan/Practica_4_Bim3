@@ -5,7 +5,7 @@
    Quinto electronica
    Codigo Tecnico: EB5AV 
    Curso: Taller de electronica digital y reparacion de computadoras I
-   Proyecto: ADC y PWM
+   Proyecto: RFID
    Dev: Steven Josué Sicaján Pacheco
    Fecha: 26 de julio.
 */
